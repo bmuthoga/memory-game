@@ -1,0 +1,43 @@
+.nav {
+  display: flex;
+  justify-content: space-between;
+  color: white;
+  padding: 5px 5px;
+  background-color: rgb(61,71,89);
+  align-items: baseline;
+}
+
+h1 {
+  margin-left: 10px;
+}
+
+h1:hover {
+  color: bisque;
+  cursor: pointer;
+}
+
+h2 {
+  font-size: larger;
+  margin-right: 10px;
+}
+
+h2:hover {
+  color: bisque;
+  cursor: pointer;
+}
+
+@media(max-width: 500px) {
+  .nav {
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+  }
+
+  h1 {
+    margin: 5px 0;
+  }
+
+  h2 {
+    margin: 5px 0;
+  }
+}

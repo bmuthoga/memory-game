@@ -1,6 +1,14 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Memory Game
+This is a simple card memory game built with React
+
+A deployed version of the app and online code editor to play around with the codebase can be found [here](https://codesandbox.io/s/github/bmuthoga/memory-game)
+
+Below is a preview of how it looks:
+
+<img src="https://i.ibb.co/6ynm7zB/memorygame.gif" width="300" height="200" alt="app-preview" />
 
 ## Available Scripts
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 In the project directory, you can run:
 
